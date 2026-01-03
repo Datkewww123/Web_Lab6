@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "Learning Next.js",
+    "content": "Next.js is a powerful React framework that enables features like server-side rendering and static site generation."
+  },
+  {
+    "id": "2",
+    "title": "Routing in Next.js",
+    "content": "Next.js uses a file-based routing system. Every file created inside the pages or app directory automatically becomes a route."
+  },
+  {
+    "id": "3",
+    "title": "Understanding SSG",
+    "content": "Static Site Generation (SSG) allows you to pre-render pages at build time, making your website incredibly fast and SEO-friendly."
+  },
+  {
+    "id": "4",
+    "title": "What is Vercel?",
+    "content": "Vercel is the cloud platform creators of Next.js. It provides an easy way to deploy and scale frontend applications globally."
+  },
+  {
+    "id": "5",
+    "title": "SEO Optimization",
+    "content": "Next.js offers built-in components like 'next/head' or Metadata API to help you optimize your site for search engines effectively."
+  },
+  {
+  "id": "6",
+  "title": "Challenge: Manual Update",
+  "content": "This post was added manually to test the fallback: true behavior."
+  }
+]
